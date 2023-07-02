@@ -4,11 +4,15 @@ import logoSvg from "../assets/logo.svg"
 
 const Logo = () => {
   return (
-    <Link to="/" className="absolute top-[1.5rem] left-[1.5rem] [text-decoration:none] text-lg text-purple flex items-center">
+    <Link to="/" className="
+    absolute top-[1.5rem] left-[1.5rem] 
+    [text-decoration:none] text-lg
+     text-purple flex items-center"
+    >
     <img src={logoSvg} alt="InvestYaar" />
       <span>InvestYaar</span>
     </Link>
-  )
-}
+  );
+};
 
 export default Logo;
