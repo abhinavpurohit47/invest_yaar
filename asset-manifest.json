@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/invest_yaar/static/css/main.0f67296a.css",
+    "main.js": "/invest_yaar/static/js/main.3c657138.js",
+    "static/js/787.6be010ee.chunk.js": "/invest_yaar/static/js/787.6be010ee.chunk.js",
+    "static/media/submit-icon.svg": "/invest_yaar/static/media/submit-icon.df6311ef7bd1383b2860a218cc7d01a4.svg",
+    "static/media/pagination-arrow.svg": "/invest_yaar/static/media/pagination-arrow.e21b39464a11475d1397ae4bb52a177f.svg",
+    "static/media/logo.svg": "/invest_yaar/static/media/logo.a1c83d2ff0c236241888ab4494951549.svg",
+    "static/media/select-icon.svg": "/invest_yaar/static/media/select-icon.bd2e95499d73462213dd5e222d294013.svg",
+    "index.html": "/invest_yaar/index.html",
+    "static/media/search-icon.svg": "/invest_yaar/static/media/search-icon.523d9a8cb9ecb1aa8d160bd7e4e815a6.svg",
+    "static/media/index.cjs": "/invest_yaar/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.0f67296a.css.map": "/invest_yaar/static/css/main.0f67296a.css.map",
+    "main.3c657138.js.map": "/invest_yaar/static/js/main.3c657138.js.map",
+    "787.6be010ee.chunk.js.map": "/invest_yaar/static/js/787.6be010ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f67296a.css",
+    "static/js/main.3c657138.js"
+  ]
+}
