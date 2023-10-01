@@ -4,15 +4,13 @@ import { NavLink } from "react-router-dom";
 const Navigation = () => {
   return (
     <nav
-      className="w-[40%] mt-16 flex justify-around align-middle
-    border border-purple rounded-lg
-    "
+      className="mt-16 flex justify-around items-center border border-purple rounded-lg md:w-2/5 lg:w-1/3"
     >
       <NavLink
         to="/"
         end
         className={({ isActive }) => {
-          return `w-full text-base text-center font-nunito m-2.5
+          return `w-full p-0.5 text-base text-center font-nunito m-2.5
 
 ${
   isActive
@@ -28,7 +26,7 @@ ${
       <NavLink
         to="/trending"
         className={({ isActive }) => {
-          return `w-full text-base text-center font-nunito m-2.5
+          return `w-full p-0.5 text-base text-center font-nunito m-2.5
 
 ${
   isActive

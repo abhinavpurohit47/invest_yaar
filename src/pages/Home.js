@@ -5,6 +5,7 @@ import Navigation from "../components/Navigation";
 import { CryptoProvider } from "../context/CryptoContext";
 import { StorageProvider } from "../context/StorageContext";
 import { TrendingProvider } from "../context/TrendingContext";
+import Footer from "../components/Footer";
 
 const Home = () => {
   return (
@@ -21,10 +22,12 @@ const Home = () => {
             <Navigation />
 
             <Outlet />
+            <Footer></Footer>
           </main>
         </StorageProvider>
       </TrendingProvider>
     </CryptoProvider>
+    
   );
 };
 
